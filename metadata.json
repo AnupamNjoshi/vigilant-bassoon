@@ -1,0 +1,7 @@
+{
+  "name": "NanoWeb Forge",
+  "description": "An end-to-end AI workflow that transforms screenshots into production-ready websites using Vision analysis, Web Research, and Nano-Banana style image generation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
